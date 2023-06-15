@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-15T17:34:29.396229400Z</date>
+  <millis>1686850469396</millis>
+  <nanos>229400</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>WARNING</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование[-8, -5, -2, -5, 1, 3, 2, -10, -8, -10, -1, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.595227300Z</date>
+  <millis>1686850469595</millis>
+  <nanos>227300</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>INFO</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование [-8, -5, -2, -5, 1, 3, 2, -10, -8, -10, -1, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.598224600Z</date>
+  <millis>1686850469598</millis>
+  <nanos>224600</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>WARNING</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование[-8, -5, -5, -2, 1, 2, -10, -8, -10, -1, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.602227Z</date>
+  <millis>1686850469602</millis>
+  <nanos>227000</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>INFO</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование [-8, -5, -5, -2, 1, 2, -10, -8, -10, -1, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.604229Z</date>
+  <millis>1686850469604</millis>
+  <nanos>229000</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>WARNING</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование[-8, -5, -5, -2, 1, -10, -8, -10, -1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.608227700Z</date>
+  <millis>1686850469608</millis>
+  <nanos>227700</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>INFO</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование [-8, -5, -5, -2, 1, -10, -8, -10, -1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.612229200Z</date>
+  <millis>1686850469612</millis>
+  <nanos>229200</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>WARNING</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование[-8, -5, -5, -2, -10, -8, -10, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.615225200Z</date>
+  <millis>1686850469615</millis>
+  <nanos>225200</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>INFO</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование [-8, -5, -5, -2, -10, -8, -10, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.618227500Z</date>
+  <millis>1686850469618</millis>
+  <nanos>227500</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>WARNING</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование[-8, -5, -5, -10, -8, -10, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.620226900Z</date>
+  <millis>1686850469620</millis>
+  <nanos>226900</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>INFO</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование [-8, -5, -5, -10, -8, -10, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.623226900Z</date>
+  <millis>1686850469623</millis>
+  <nanos>226900</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>WARNING</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование[-8, -5, -10, -8, -10, -5, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.625229300Z</date>
+  <millis>1686850469625</millis>
+  <nanos>229300</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>INFO</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование [-8, -5, -10, -8, -10, -5, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.628226400Z</date>
+  <millis>1686850469628</millis>
+  <nanos>226400</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>WARNING</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование[-8, -10, -8, -10, -5, -5, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.631227300Z</date>
+  <millis>1686850469631</millis>
+  <nanos>227300</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>INFO</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование [-8, -10, -8, -10, -5, -5, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.633227900Z</date>
+  <millis>1686850469633</millis>
+  <nanos>227900</nanos>
+  <sequence>14</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>WARNING</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование[-10, -8, -10, -8, -5, -5, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.635228Z</date>
+  <millis>1686850469635</millis>
+  <nanos>228000</nanos>
+  <sequence>15</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>INFO</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование [-10, -8, -10, -8, -5, -5, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.637228700Z</date>
+  <millis>1686850469637</millis>
+  <nanos>228700</nanos>
+  <sequence>16</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>WARNING</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование[-10, -10, -8, -8, -5, -5, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.639229600Z</date>
+  <millis>1686850469639</millis>
+  <nanos>229600</nanos>
+  <sequence>17</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>INFO</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование [-10, -10, -8, -8, -5, -5, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.641229200Z</date>
+  <millis>1686850469641</millis>
+  <nanos>229200</nanos>
+  <sequence>18</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>WARNING</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование[-10, -10, -8, -8, -5, -5, -2, -1, 1, 2, 3, 4]</message>
+</record>
+<record>
+  <date>2023-06-15T17:34:29.645227400Z</date>
+  <millis>1686850469645</millis>
+  <nanos>227400</nanos>
+  <sequence>19</sequence>
+  <logger>org.example.java_homework_2_bubble</logger>
+  <level>INFO</level>
+  <class>org.example.java_homework_2_bubble</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование [-10, -10, -8, -8, -5, -5, -2, -1, 1, 2, 3, 4]</message>
+</record>
+</log>
