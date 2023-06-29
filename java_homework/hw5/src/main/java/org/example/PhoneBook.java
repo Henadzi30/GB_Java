@@ -67,7 +67,7 @@ public class PhoneBook {
         }
     }
 
-    //PrintPhonebook - выводит на экран все записи БД
+    //PrintPhonebook - выводит на экран все записи телефонного справочника
     public static void PrintPhoneBook(){
         System.out.println("Телефонный справочник: ");
         for(Map.Entry<String,String> k: phoneBook.entrySet()){
